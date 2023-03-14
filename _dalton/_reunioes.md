@@ -94,3 +94,6 @@ Fazer
 - vai pegar o Android na quinta no LIFE.  
 - entrar em contato com Associação VIVA Parkinson  
 - continuar testando e fazendo o código  
+
+
+teste commit
