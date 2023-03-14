@@ -45,7 +45,7 @@ Entrega do Pré-Projeto:
   Buscar com o pessoal que o Aurélio indicou  
     - conteúdo das atividades  
     Margit WhatsApp: 9930-3700  
-    Associação VIVA Parkison  
+    Associação VIVA Parkinson  
   
 ### Prática - Unity
 
@@ -92,5 +92,5 @@ a) Sensor de movimentos da mão do paciente: só usar smartphone, mas testar com
 Fazer  
 
 - vai pegar o Android na quinta no LIFE.  
-- entrar em contato com Associação VIVA Parkison  
+- entrar em contato com Associação VIVA Parkinson  
 - continuar testando e fazendo o código  
