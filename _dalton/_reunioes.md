@@ -82,3 +82,15 @@ a) Sensor de movimentos da mão do paciente: só usar smartphone, mas testar com
 - Unity + JSON + Firebase
   - https://docs.unity3d.com/ScriptReference/JsonUtility.html
   - https://console.firebase.google.com/
+
+## 2023-03-13 - 17:35
+
+- estava com problemas no Visual Studio para fazer o auto-completar o código do Unity.  
+- fez testes com a Cena do acelerômetro mas não testou porque não fez deploy para o aparelho.  
+- criou uma cena para o Firebase mas só tinha código do site, ainda não implementou seu código de teste.  
+
+Fazer  
+
+- vai pegar o Android na quinta no LIFE.  
+- entrar em contato com Associação VIVA Parkison  
+- continuar testando e fazendo o código  
