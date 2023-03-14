@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "750734969675",
+    "project_id": "tccchristyelen",
+    "storage_bucket": "tccchristyelen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750734969675:android:cf38ec1ab357f96e51f6ce",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.com.unity.template.mobile2D"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750734969675-fia0n4omc51tfh4aujkfmpepj2eqcsm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxoQN2M_fGwkKppUv7MCJC2zjuHDnmHwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750734969675-fia0n4omc51tfh4aujkfmpepj2eqcsm0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
