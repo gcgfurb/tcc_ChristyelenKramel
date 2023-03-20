@@ -91,9 +91,15 @@ a) Sensor de movimentos da mão do paciente: só usar smartphone, mas testar com
 
 Fazer  
 
-- vai pegar o Android na quinta no LIFE.  
-- entrar em contato com Associação VIVA Parkinson  
+- [x] vai pegar o Android na quinta no LIFE.  
+- entrar em contato com Associação VIVA Parkinson -> semana que vem  
 - continuar testando e fazendo o código  
 
+## 2023-03-20 - 18:21
 
-teste commit
+Estava com problema para fazer deploy do APK nbo celular da FURB  
+Vimos que o Windows não está reconhecendo o celular. Sugeri alguns novos testes: trocando o cabo, trocando o celular, etc.  
+Mostrei que poderia levar o APK para o celular usando o GoogleDrive, e instalando depois.  
+
+Vai para CWB, e na volta vai agendar com o Viva Parkinson.  
+VAi continuar os testes de UI e acelerômetro.  
