@@ -1,5 +1,6 @@
 using System;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Accelerometer : MonoBehaviour
 {
@@ -35,14 +36,15 @@ public class Accelerometer : MonoBehaviour
     private float lowPassFilterFactor;
     private Vector3 lowPassValue;
 
+    public Text texto;
 
     private void Start()
     {
-        DontDestroyOnLoad(this.gameObject);
+        //DontDestroyOnLoad(this.gameObject);
 
-        lowPassFilterFactor = accelerometerUpdateInterval / lowPassKernelWidthInSeconds;
-        shakeDetectionThreshold *= shakeDetectionThreshold;
-        lowPassValue = Input.acceleration;
+        ///lowPassFilterFactor = accelerometerUpdateInterval / lowPassKernelWidthInSeconds;
+        //shakeDetectionThreshold *= shakeDetectionThreshold;
+        //lowPassValue = Input.acceleration;
     }
 
     private void Update()
@@ -54,6 +56,7 @@ public class Accelerometer : MonoBehaviour
 
         //shake detection
         //if (deltaAcceleration.sqrMagnitude >= shakeDetectionThreshold)
-        //    OnShake?.Invoke();
+        texto.text = "oi";
+        
     }
 }
