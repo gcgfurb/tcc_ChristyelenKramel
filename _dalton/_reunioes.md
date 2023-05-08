@@ -103,3 +103,31 @@ Mostrei que poderia levar o APK para o celular usando o GoogleDrive, e instaland
 
 Vai para CWB, e na volta vai agendar com o Viva Parkinson.  
 VAi continuar os testes de UI e acelerômetro.  
+
+## 2023-05-02
+
+1-Conectar com MongoDB
+2-Passagem de parametros nivel-pre-exercicio-exercicio
+3-Fazer cards blog serem criados automaticamente
+4-ver erro passagem parametro
+5-Fazer login funcionar
+6-Conseguir criar Grids nos cadastros p poder editar e excluir registros
+7-Salvar os novos registros dos cadastros
+8-Ver erro que não compartilha imagem ofensiva
+9-criar calendario tela ofensiva
+10-ver erro inicio e fim do video
+11- verificar como colocar 3 ou mais videos cadastrados no nivel em sequencia
+12-finalizar o exercicio e parar bolinha de load
+13-verificar todas as passagens de parametro.
+
+## 2023-05-08 - 17:39
+
+Usou para usar o Firebase o video: <https://www.youtube.com/watch?v=TwxdOFcEah4>  
+
+Falta ___
+5-Fazer login funcionar
+6-Conseguir criar Grids nos cadastros p poder editar e excluir registros
+7-Salvar os novos registros dos cadastros
+8-Ver erro que não compartilha imagem ofensiva
+9-criar calendário tela ofensiva
+10-ver erro inicio e fim do vídeo
