@@ -131,3 +131,11 @@ Falta ___
 8-Ver erro que não compartilha imagem ofensiva
 9-criar calendário tela ofensiva
 10-ver erro inicio e fim do vídeo
+
+## 2023-05-15 - 17:35
+
+- fazer login  
+- Outras tarefas listadas no chat do Ms-Teams  
+- 1 semana para terminar ajustes  
+- 1 semana mostrar para especialista  
+- 1 semana testes usuários  
