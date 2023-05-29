@@ -139,3 +139,22 @@ Falta ___
 - 1 semana para terminar ajustes  
 - 1 semana mostrar para especialista  
 - 1 semana testes usuários  
+
+## 2023-05-29 - 18:14
+
+Indiquei os dois artigos dos TCC para produzir o seu:  
+
+### Carol ___
+
+<https://github.com/gcgfurb/tcc_CarolineBelliRegalin/blob/main/tcc_bcc_2021_2_cregalin_CarolineBelliRegalin/Textos/tcc_bcc_2021_2_cregalin_CarolineBelliRegalin-VF.pdf>  
+
+### Leonardo ___
+
+<https://github.com/gcgfurb/tcc_LeonardoPereiraVieira/blob/main/tcc_bcc_2020_2_leonardopereira_LeonardoPereiraVieira/Textos/tcc_bcc_2020_2_leonardopereira_LeonardoPereiraVieira-VF.pdf>  
+
+Passei como exemplo o questionário de IHC da Luciana.  
+[QuestionarioIHC](../_ExemploQuestionario_LucianaPereira%20-%20Formul%C3%A1rios%20Google.pdf)  
+
+Pedi para fazer uma lista de perguntas.  
+
+Agendamos algumas datas no chat do MS-Teams.  
