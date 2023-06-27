@@ -173,3 +173,7 @@ Convidei para testar.
 [ ] Umberto Oliveira de Araújo Neto Leonetti
 
 Oi, agradeço se puder testar o TCC que estou orientando: https://forms.gle/JAjBzRGK1XrVRJKw7
+
+## 2023-06-27 - 11:06
+
+[Artigo_2023-06-27_EntregueBanca](Artigo_2023-06-27_EntregueBanca.pdf)  
