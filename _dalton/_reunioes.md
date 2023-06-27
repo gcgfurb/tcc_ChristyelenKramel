@@ -163,14 +163,13 @@ Agendamos algumas datas no chat do MS-Teams.
 
 Convidei para testar.  
 
-Felipe Augusto De Carvalho De Araújo
-Gabriel Jorge Utyama de Carvalho
-Gustavo Celso Bozzano
-Helena da Silva
-Iran Andrei da Costa
-João Gabriel Soares Lavina
-Leonardo Linhares Silva
-Umberto Oliveira de Araújo Neto Leonetti
+[x] Felipe Augusto De Carvalho De Araújo
+[ ] Gabriel Jorge Utyama de Carvalho
+[ ] Gustavo Celso Bozzano
+[ ] Helena da Silva
+[ ] Iran Andrei da Costa
+[ ] João Gabriel Soares Lavina
+[ ] Leonardo Linhares Silva
+[ ] Umberto Oliveira de Araújo Neto Leonetti
 
 Oi, agradeço se puder testar o TCC que estou orientando: https://forms.gle/JAjBzRGK1XrVRJKw7
-
