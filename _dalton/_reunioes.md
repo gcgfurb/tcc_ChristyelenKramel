@@ -80,8 +80,8 @@ a) Sensor de movimentos da mão do paciente: só usar smartphone, mas testar com
 ## 2023-03-06 - 17:32
 
 - Unity + JSON + Firebase
-  - https://docs.unity3d.com/ScriptReference/JsonUtility.html
-  - https://console.firebase.google.com/
+  - <https://docs.unity3d.com/ScriptReference/JsonUtility.html>  
+  - <https://console.firebase.google.com/>  
 
 ## 2023-03-13 - 17:35
 
@@ -163,7 +163,7 @@ Agendamos algumas datas no chat do MS-Teams.
 
 Convidei para testar.  
 
-[x] Felipe Augusto De Carvalho De Araújo
+\[x\] Felipe Augusto De Carvalho De Araújo
 [ ] Gabriel Jorge Utyama de Carvalho
 [ ] Gustavo Celso Bozzano
 [ ] Helena da Silva
@@ -172,8 +172,15 @@ Convidei para testar.
 [ ] Leonardo Linhares Silva
 [ ] Umberto Oliveira de Araújo Neto Leonetti
 
-Oi, agradeço se puder testar o TCC que estou orientando: https://forms.gle/JAjBzRGK1XrVRJKw7
+Oi, agradeço se puder testar o TCC que estou orientando: <https://forms.gle/JAjBzRGK1XrVRJKw7>  
 
 ## 2023-06-27 - 11:06
 
 [Artigo_2023-06-27_EntregueBanca](Artigo_2023-06-27_EntregueBanca.pdf)  
+
+## 2023-07-05 - 20:33
+
+Luciana: pode comentar sobre a Gamificação.  
+Reforçar que esteve antes de iniciar o desenvolvimento pessoal lá. E depois algumas conversas com a Marguit.  
+
+53 - 33 = 20 minutos  
