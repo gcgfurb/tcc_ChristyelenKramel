@@ -184,3 +184,7 @@ Luciana: pode comentar sobre a Gamificação.
 Reforçar que esteve antes de iniciar o desenvolvimento pessoal lá. E depois algumas conversas com a Marguit.  
 
 53 - 33 = 20 minutos  
+
+## 2023-07-06 - 10:30 Revisão Maurício
+
+[Artigo_2023-07-06_Revisao_Mauricio](Artigo_2023-07-06_Revisao_Mauricio)  
