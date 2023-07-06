@@ -187,4 +187,4 @@ Reforçar que esteve antes de iniciar o desenvolvimento pessoal lá. E depois al
 
 ## 2023-07-06 - 10:30 Revisão Maurício
 
-[Artigo_2023-07-06_Revisao_Mauricio](Artigo_2023-07-06_Revisao_Mauricio)  
+[Artigo_2023-07-06_Revisao_Mauricio](Artigo_2023-07-06_Revisao_Mauricio.docx)  
