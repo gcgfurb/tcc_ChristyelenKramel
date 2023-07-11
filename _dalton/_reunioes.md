@@ -188,3 +188,29 @@ Reforçar que esteve antes de iniciar o desenvolvimento pessoal lá. E depois al
 ## 2023-07-06 - 10:30 Revisão Maurício
 
 [Artigo_2023-07-06_Revisao_Mauricio](Artigo_2023-07-06_Revisao_Mauricio.docx)  
+
+## 2023-07-07 - 15:30 Defesa
+
+Colocar o código num Git Publico.  
+
+15:51  
+
+### Aurélio
+
+Sugestão - Gamificação .. parece um pouco pedida dentro do texto. Aparece nas palavras chaves e depois aparece como um tópico.  
+Nos experimentos .. colocar como extensão fazer testes usando uma metodologia.  
+
+### Luciana
+
+[Artigo_2023-07-07_Revisao_Luciana.pdf](Artigo_2023-07-07_Revisao_Luciana.pdf)  
+
+Grande relevância para sociedade.  
+No texto bastante anotações.  
+Frases sem usar citações para afirmações.  
+Trabalho correlatos ... não usar somente produtos públicos ... buscar mais trabalhos acadêmicos.  
+RF e RFNs: tem muitos mais com o que desenvolveu.  
+Uso das cores, da psicologia das cores ... comentar já no texto antes.  
+Aumentar mais a explicação das figuras dos trechos de código e das telas.  
+
+Comentar que o primeiro usou o aparelho, e os outros não.  
+Melhorar os resultados, diminuir um pouco o que foi atingido.  
