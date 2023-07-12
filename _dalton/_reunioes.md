@@ -185,12 +185,9 @@ Reforçar que esteve antes de iniciar o desenvolvimento pessoal lá. E depois al
 
 53 - 33 = 20 minutos  
 
-## 2023-07-06 - 10:30 Revisão Maurício
-
-[Artigo_2023-07-06_Revisao_Mauricio](Artigo_2023-07-06_Revisao_Mauricio.docx)  
-
 ## 2023-07-07 - 15:30 Defesa
 
+[Artigo_2023-07-06_Revisao_Mauricio](Artigo_2023-07-06_Revisao_Mauricio.docx)  
 Colocar o código num Git Publico.  
 
 15:51  
