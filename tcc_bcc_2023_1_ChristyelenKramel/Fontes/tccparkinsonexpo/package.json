@@ -1,0 +1,49 @@
+{
+  "name": "tccparkinsonexpo",
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "apk": "eas build -p android --profile preview"
+  },
+  "dependencies": {
+    "@react-navigation/native": "^6.1.6",
+    "@react-navigation/native-stack": "^6.9.12",
+    "@types/react": "~18.0.27",
+    "expo": "~48.0.11",
+    "expo-image-picker": "^14.1.1",
+    "expo-print": "~12.2.1",
+    "expo-screen-orientation": "~5.1.1",
+    "expo-sharing": "~11.2.2",
+    "expo-status-bar": "~1.4.4",
+    "firebase": "^9.21.0",
+    "moment": "^2.29.4",
+    "mongodb-stitch-browser-sdk": "^4.8.0",
+    "native-base": "^3.4.28",
+    "qs": "^6.11.2",
+    "react": "18.2.0",
+    "react-native": "0.71.8",
+    "react-native-calendars": "^1.1297.0",
+    "react-native-masked-text": "^1.13.0",
+    "react-native-modal-dropdown": "^1.0.2",
+    "react-native-paper": "^5.7.0",
+    "react-native-picker-select": "^8.0.4",
+    "react-native-safe-area-context": "4.5.0",
+    "react-native-screens": "~3.20.0",
+    "react-native-share": "^8.2.2",
+    "react-native-vector-icons": "^9.2.0",
+    "react-native-video": "^5.2.1",
+    "react-native-view-shot": "^3.5.0",
+    "react-native-webview": "11.26.0",
+    "react-native-youtube-iframe": "^2.2.2",
+    "typescript": "^4.9.4",
+    "validator": "^13.9.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}

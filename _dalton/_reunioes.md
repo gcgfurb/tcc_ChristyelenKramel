@@ -211,3 +211,7 @@ Aumentar mais a explicação das figuras dos trechos de código e das telas.
 
 Comentar que o primeiro usou o aparelho, e os outros não.  
 Melhorar os resultados, diminuir um pouco o que foi atingido.  
+
+## 2023-07-17 - 09:46 Entrega Final
+
+/Users/daltonreis/GitHub/TCC/abertos/_TCC2/tcc_ChristyelenKramel/tcc_bcc_2023_1_ChristyelenKramel  

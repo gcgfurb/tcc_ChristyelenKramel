@@ -1,0 +1,38 @@
+#Como rodar o aplicativo.
+
+Você precisa do Node.js instalado para executar a aplicação. Baixe e instale a versão LTS mais recente do Node.js em https://nodejs.org.
+
+Clone ou realize o download do projeto pelo GitHub, entre no diretorio e instale as dependências.
+|
+git clone https://github.com/Christyelen/tccparkinsonexpo
+cd tccparkinsonexpo
+npm install
+
+##Configuração Expo:
+
+Certifique-se que o wifi utilizado é o mesmo que seu dispositivo e o wifi esta configurado como rede privada.
+
+##Inicie o servidor de desenvolvimento: 
+
+Execute o seguinte comando para iniciar o servidor de desenvolvimento do React Native:
+npx react-native start
+
+Para compilar a aplicação e poder realizar testes pelo Expo, execute no terminal o código:
+npx expo start
+
+Caso você não esteja conectado a internet por cabo de rede e ocorra uma falha de conexão, utilize o seguinte código:
+
+npx expo start --offline
+
+#Como gerar APK.
+
+Para gerar a APK para Android e IOS, utilize o comando:
+eas build
+
+Caso deseje só em um, você pode utilizar o código especifico:
+
+Android: eas build -p android --profile preview
+IOS: eas build -p ios --profile preview 
+
+Observação: No IOS é necessário de uma conta de desenvolvedor para realizar a criação da APK.
+
